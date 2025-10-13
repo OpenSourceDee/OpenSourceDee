@@ -1,7 +1,7 @@
 # Hi, I’m Dee 👋
 
 I build structure in the chaos so that **developers, products, and communities can grow.**  
-12+ years scaling SaaS and B2B businesses across the **Americas, EMEA, and APAC** — from $2M ARR startups to global platforms.  
+12+ years scaling SaaS and B2B businesses across the **Americas, EMEA, and APAC** — from $2M ARR to 50M ARR startups to global platforms.  
 
 ## 🚀 What I Do
 - **Demand Generation & Growth Marketing** — inbound, outbound, PLG, ABM. 200%+ pipeline growth and retention programs that stick.  
