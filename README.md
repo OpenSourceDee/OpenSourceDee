@@ -1,16 +1,16 @@
 # Hi, I’m Dee 👋
 
-I build structure in the chaos so that **developers, products, and communities can grow.**  
-12+ years scaling SaaS and B2B businesses across the **Americas, EMEA, and APAC** — from $2M ARR to 50M ARR startups to global platforms.  
+I build revenue engines that scale early-stage startups—turning $2M ARR companies into $50M+ growth machines through data-driven marketing.
+12+ years scaling SaaS and B2B businesses across the **Americas, EMEA, and APAC** — from $2M to 50M ARR startups to global platforms.  
 
 ## 🚀 What I Do
 - **Demand Generation & Growth Marketing** — inbound, outbound, PLG, ABM. 200%+ pipeline growth and retention programs that stick.  
-- **Program & Campaign Ops** — timelines, vendors, launches, swag, events… if it needs shipping, I make it happen.  
-- **DevRel & Community Support** — hackathons, onboarding, API education campaigns, and developer-first adoption strategies.  
 - **Data-Driven Optimization** — CAC/LTV, funnel velocity, predictive lead scoring, and campaign ROI.  
+- **Program & Campaign Ops** — timelines, vendors, launches, swag, events… if it needs shipping, I make it happen.  
+- **DevRel & Community Support** — onboarding, API education campaigns, and developer-first adoption strategies.  
 
 ## 🤝 How I Work
-I practice **README-driven marketing**: clarity first, then execution.  
+I practice **data-driven marketing**: clarity first, then execution.  
 That means turning ambitious ideas into structured projects, documenting processes, and ensuring every campaign, event, or launch ships on time and with impact.  
 
 ## 🌍 A Bit More
@@ -20,12 +20,12 @@ That means turning ambitious ideas into structured projects, documenting process
 
 ## ✨ A Little Bit More
 - 🌱 Known to care for plants with the same consistency I bring to campaigns.  
-- Known to organize launch timelines the way some people organize playlists.  
-- Believe in dark mode, and shipping fast but eating slow.  
-- Yes, I’ve run hackathons — and yes, I’ve also bribed devs with good swag.  
+- 🚀 Known to organize launch timelines the way I organize my 99 customized playlists.  
+- 🕶️ I believe in dark mode, and shipping fast but eating slow.  
+- 💰 Yes, I’ve run hackathons — and yes, I’ve also bribed devs with good swag and free lunch.  
 
 ---
-📈 *Every great launch starts with clarity — then the growth follows.*  
+📈 *Every great launch starts with clarity — then the growth follows.*  ✨
 
 
 
